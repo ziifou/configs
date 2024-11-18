@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to SifBank cards related prod APIs "
+  message: "Welcome to SifBank cards related prod APIs (change)"
   contactDetails:
     name: "Sandra Harald - Product Owner"
     email: "sandra@SifBank.com"
